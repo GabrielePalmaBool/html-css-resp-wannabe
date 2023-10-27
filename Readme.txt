@@ -1,1 +1,1 @@
-Esercizio su pagina html: responsive
+Esercizio su pagina html: responsive (width:768,480 )

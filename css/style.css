@@ -138,6 +138,9 @@ img {
 
 @media screen and (max-width: 480px) {
     
+    .row{
+        flex-wrap:wrap;
+    }
 
     .steps .col {
         width: 100%;
@@ -149,4 +152,5 @@ img {
     .why-us .col-left {
         width: 100%;
     }
+
 }
